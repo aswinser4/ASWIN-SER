@@ -51,7 +51,7 @@ Project created by <a href="https://github.com/aswinser4-aswinser4">ASWIN-SER</a
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/ASWIN-SER-QR?v=1)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ABUOP1/AMRU-SER-QR?v=1)
   
 ### The Hard Method
 ```js
