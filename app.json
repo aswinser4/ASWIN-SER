@@ -17,7 +17,7 @@
             "required": false
         },
          "YT_PASSWORD": {
-            "description": "PASSWORD SMAL leter. amrus ENNUTHABE ADIKKANAM ILLEL ERROR VARUM .",
+            "description": "PASSWORD SMAL leter. aswinser ENNUTHABE ADIKKANAM ILLEL ERROR VARUM .",
             "required": true
         },
         "LANGUAGE": {
